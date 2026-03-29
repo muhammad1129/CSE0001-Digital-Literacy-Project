@@ -58,7 +58,7 @@ Studied cyberbullying and created a prevention checklist.
 ---
 
 ## Google Form Link
-https://docs.google.com/forms/d/e/1FAIpQLSffbQpthQgjE1tlOPWSGFxzv9RhsD-w7YtG7PXHGumPCTQs6Q/viewform?usp=dialog
+https://docs.google.com/forms/d/e/1FAIpQLSeAlvkNHA_UxVFrQgL5jSpDnbVod3o0PCPhD7tpVlDpeiBvVA/viewform?usp=publish-editor
 
 
 ---
